@@ -1,5 +1,5 @@
-¡¤Please unzip 'figures' and 'methods'.
+Please unzip 'figures' and 'methods'.
 
-¡¤Please run the main file : STARFlow.m 
+Please run the main file : STARFlow.m 
 
-¡¤This code is only tested in the middleburry datasets.
+This code is only tested in the middleburry datasets.
